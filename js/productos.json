@@ -1,0 +1,74 @@
+[
+    {
+        "producto_id": 1,
+        "titulo": "Aceite Sublingual 10ML",
+        "descripcion": "Aceite Sublingual Nature's CBD con 39,9% de CBD 10ML",
+        "precio": 5999,
+        "imagen": "assets/img/productos/aceite.jpg",
+        "imagen_descripcion": "Aceite sublingual de CBD de 10ML",
+        "categoria": "categoria1"
+    },
+    {
+        "producto_id": 2,
+        "titulo": "Aceite Sublingual 30ML",
+        "descripcion": "Aceite Sublingual Nature's CBD con 39,9% de CBD 30ML",
+        "precio": 8499,
+        "imagen": "assets/img/productos/aceite.jpg",
+        "imagen_descripcion": "Aceite sublingual de CBD de 30ML",
+        "categoria": "categoria1"
+    },
+    {
+        "producto_id": 3,
+        "titulo": "Aceite Sublingual Rojo 10% 10ML",
+        "descripcion": "Aceite Sublingual Nature's CBD con 10% de CBD 10ML",
+        "precio": 4999,
+        "imagen": "assets/img/productos/aceite-rojo.jpg",
+        "imagen_descripcion": "Aceite sublingual con un 10% de CBD",
+        "categoria": "categoria1"
+    },
+    {
+        "producto_id": 4,
+        "titulo": "Gummies de CBD",
+        "descripcion": "Gummies Acid Strawberry y Watermelon (de frutilla y sandia) x30 unidades 450mg CBD (15mg CBD por gomita)",
+        "precio": 6799,
+        "imagen": "assets/img/productos/gummies-cbd.jpg",
+        "imagen_descripcion": "Gomitas con efecto CBD",
+        "categoria": "categoria2"
+    },
+    {
+        "producto_id": 5,
+        "titulo": "Gummies de THC",
+        "descripcion": "Gummies Candy x30 unidades 450mg THC (15mg THC por gomita)",
+        "precio": 7999,
+        "imagen": "assets/img/productos/gummies-thc.jpg",
+        "imagen_descripcion": "Gomitas con efecto THC",
+        "categoria": "categoria2"
+    },
+    {
+        "producto_id": 6,
+        "titulo": "Cápsulas Fish Oil",
+        "descripcion": "Compuesto: CBD 39,99% + Omega 3,6 y 9. Contiene 60 cápsulas, 1800mg de cbd, aceite de salmón 200mg.",
+        "precio": 11599,
+        "imagen": "assets/img/productos/capsulas.jpg",
+        "imagen_descripcion": "Capsulas de CBD",
+        "categoria": "categoria3"
+    },
+    {
+        "producto_id": 7,
+        "titulo": "Crema Corporal para Dolores",
+        "descripcion": "NiCrema Corporal Forte Con tinte de cannabis 40gr.",
+        "precio": 5499,
+        "imagen": "assets/img/productos/crema-corporal.jpg",
+        "imagen_descripcion": "Crema corporal para tratar dolores",
+        "categoria": "categoria4"
+    },
+    {
+        "producto_id": 8,
+        "titulo": "Crema Masajeadora",
+        "descripcion": "Crema Masajeadora 1000mg + Apitoxina x 50gr.",
+        "precio": 4499,
+        "imagen": "assets/img/productos/crema-masajeadora.jpg",
+        "imagen_descripcion": "Crema para realizar masajes",
+        "categoria": "categoria4"
+    }
+]
